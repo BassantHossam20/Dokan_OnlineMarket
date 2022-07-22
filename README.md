@@ -41,7 +41,7 @@ To facilitate the search process, the products are divided into categories.
 
 <br>
 
-> ### Designs & Models are used
+> ### Designs and Models which are used
     - MVC model.
     - Qt FrameWork (GUI).
 
